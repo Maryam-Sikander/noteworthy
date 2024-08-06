@@ -50,5 +50,5 @@ def extract_titles_and_urls(search_response):
     for item in search_response.results:
         title = item.title
         url = item.url
-        formatted_results.append(f"**Title:** {title}\n**URL:** {url}")
+        formatted_results.append(f"**Title:** {title}\n\n**URL:** {url}")
     return formatted_results
