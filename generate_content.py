@@ -153,7 +153,7 @@ def generate_summary(formatted_transcript, system_instruction, url):
             for item in search_response.results:
                 title = item.title
                 url = item.url
-                formatted_results.append(f"**Title:** {title}\n**URL:** {url}")
+                formatted_results.append(f"**Title:** {title}\n\n**URL:** {url}")
         return formatted_results
 
     try:
