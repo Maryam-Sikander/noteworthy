@@ -81,7 +81,7 @@ if selected_feature == "Generate Comprehensive Notes":
 
            # Display spinner while processing
             with st.spinner("👩🏾‍🍳 Whipping up your video into text..."):
-                st.write("🙆‍♀️ Meanwhile, stand up and stretch in the meantime")
+                st.write("🙆‍♀️ Meanwhile, stand up and stretch")
                 
                 try:
                     transcript = YouTubeTranscriptApi.get_transcript(video_id)
