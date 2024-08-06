@@ -4,3 +4,4 @@ youtube-transcript-api
 reportlab
 google-generativeai
 exa-py
+pdfkit
