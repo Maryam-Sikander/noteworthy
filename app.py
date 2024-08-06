@@ -104,7 +104,7 @@ if selected_feature == "Generate Comprehensive Notes":
                 st.write("### Generated Notes:")
                 st.write(summary_content)
 
-                pdf_generator = ReportPDF(title="YouTube Video Summary", font=font, font_size=font_size)
+                pdf_generator = ReportPDF(title="YouTube Video Summary", font=font)
                 pdf_data = pdf_generator.generate_pdf(summary_content)
 
                 st.download_button(
