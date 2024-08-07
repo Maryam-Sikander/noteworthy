@@ -1,4 +1,4 @@
-<img src="img/logo.png" alt="NoteWorthy Logo" width="100" height="100">
+<img src="img/noteflow_logo.png" alt="NoteWorthy Logo" width="120" height="120">
 
 # NoteFlow
 
@@ -7,11 +7,10 @@
 ## Overview
 NoteFlow is a cutting-edge web application designed to simplify note-taking for students. It generates detailed notes from lecture and YouTube video URLs, offers content recommendations, and provides options to download notes as PDFs. Experience seamless interaction with video content and explore related materials effortlessly.
 ## Try noteworthy
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://noteworthy.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://noteflow.streamlit.app/)
 
 ## Motivation
-In an era where students and professionals alike juggle numerous sources of information, efficiently capturing and organizing knowledge is essential. NoteWorthy was inspired by the need for a comprehensive tool that can not only generate notes from various sources but also enhance the learning experience with personalized content recommendations. By providing a streamlined note-taking process and insightful content suggestions, NoteWorthy aims to make studying and information retrieval more efficient and effective.
-
+In an era where students and professionals alike juggle numerous sources of information, efficiently capturing and organizing knowledge is essential. Inspired by the need for a comprehensive tool that can not only generate notes from various sources but also enhance the learning experience with personalized content recommendations.
 ## Built With
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -29,7 +28,7 @@ In an era where students and professionals alike juggle numerous sources of info
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Maryam-Sikander/noteworthy.git
+   git clone https://github.com/Maryam-Sikander/noteflow.git
    cd noteworthy
 2. Install the required packages:
    ```bash
