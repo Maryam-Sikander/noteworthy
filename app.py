@@ -46,7 +46,7 @@ st.markdown("""
 st.markdown("# :rainbow[NoteFlow]")
 # Sidebar configuration
 with st.sidebar:
-    st.image("img/logo.png", use_column_width=True, width=30)
+    st.image("img/noteflow_logo.png", use_column_width=True, width=30)
     st.info("**Hey Leaders! Start here ↓**", icon="👋🏾")
 
     selected_feature = st.radio(
