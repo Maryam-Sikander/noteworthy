@@ -2,5 +2,6 @@ streamlit
 python-dotenv
 youtube-transcript-api
 reportlab
+pdfkit
 google-generativeai
 exa-py
